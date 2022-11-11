@@ -1,0 +1,101 @@
+{
+  "name": "Bruno S Bartolomeu",
+  "photo": "https://avatars.githubusercontent.com/u/44499918?v=4",
+  "job": " Junior Front End Developer",
+  "location": "Corumbá - MS",
+  "phone": "(67) 9 9676-0388",
+  "email": "brunoowap@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/react.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/html.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/js.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/ts.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/github.png"
+      },
+      {
+        "name": "VueJs",
+        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/vue.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Comunicação"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Portfólio principal feito em React com SASS",
+      "url": "https://github.com/NaosouBruno/Portfolio",
+      "github": true
+    },
+    {
+      "name": "Uma landing page de blog de receitas feita com React e SASS",
+      "url": "https://github.com/NaosouBruno/V-Food",
+      "github": true
+    },
+    {
+      "name": "Projeto proposto na Rocketseat para criar um form utilizando Storybook e TypeScript",
+      "url": "https://github.com/NaosouBruno/Ignite-Lab-DesignSystem",
+      "github": true
+    },
+    {
+      "name": "TODO List utilizando React e Firestore",
+      "url": "https://github.com/NaosouBruno/Firestore-TODO",
+      "github": true
+    },
+    {
+      "name": "Projeto onde consome de API frases aleatórias e pode alterar ela clicando no botão.",
+      "url": "https://github.com/NaosouBruno/Advice-Generator",
+      "github": true
+    },
+    {
+      "name": "Um jogo da velha feito com HTML e JS",
+      "url": "https://github.com/NaosouBruno/JogodaVelha",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Front-end Developer Trainee / Valtech",
+      "period": "04/2022 - 06/2022",
+      "description": "Atuei como Desenvolvedor Front End Trainee, onde tinhamos dailys diárias e usavamos para versionamento de git para desenvolvimento com React, SASS e aplicando conceitos como Mobile First, Atomic Design e BEM"
+    },
+    {
+      "name": "Estágio Front-end Developer / AZ Informática",
+      "period": "06/2021 - 09/2021",
+      "description": "Estágio como Desenvolvedor Front End, onde utilizava VueJs e realizava novas implementações em sistemas web."
+    }
+  ]
+}
