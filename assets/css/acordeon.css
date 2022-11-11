@@ -42,7 +42,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   transform: rotate(180deg);
-  background-image: url("/assets/imgs/icons/arrow.svg");
+  background-image: url("assets/imgs/icons/arrow.svg");
   transition: 0.25s;
 }
 .acordeon.open .trigger::after {
