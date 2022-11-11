@@ -31,10 +31,7 @@
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/git.png"
       },
-      {
-        "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/github.png"
-      },
+
       {
         "name": "VueJs",
         "logo": "https://raw.githubusercontent.com/NaosouBruno/DIO-Portf-lio-JS/feature/dinamicDices/data/imgs/vue.png"
