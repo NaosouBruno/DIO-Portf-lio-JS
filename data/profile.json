@@ -56,13 +56,33 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Portfólio principal feito em React com SASS",
+      "url": "https://github.com/NaosouBruno/Portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Uma landing page de blog de receitas feita com React e SASS",
+      "url": "https://github.com/NaosouBruno/V-Food",
+      "github": true
+    },
+    {
+      "name": "Projeto proposto na Rocketseat para criar um form utilizando Storybook e TypeScript",
+      "url": "https://github.com/NaosouBruno/Ignite-Lab-DesignSystem",
+      "github": true
+    },
+    {
+      "name": "TODO List utilizando React e Firestore",
+      "url": "https://github.com/NaosouBruno/Firestore-TODO",
+      "github": true
+    },
+    {
+      "name": "Projeto onde consome de API frases aleatórias e pode alterar ela clicando no botão.",
+      "url": "https://github.com/NaosouBruno/Advice-Generator",
+      "github": true
+    },
+    {
+      "name": "Um jogo da velha feito com HTML e JS",
+      "url": "https://github.com/NaosouBruno/JogodaVelha",
       "github": true
     }
   ],
